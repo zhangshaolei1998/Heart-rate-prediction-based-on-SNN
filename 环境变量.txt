@@ -1,0 +1,7 @@
+export CARLSIM4_INSTALL_DIR=/home/zhangshaolei/CARLsim4-master
+
+export CUDA_PATH=/usr/local/cuda
+
+export PATH=$PATH:$CUDA_PATH
+
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH

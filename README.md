@@ -1,6 +1,6 @@
 # Heart-rate-prediction-based-on-SNN
 
-## 源代码存放于src文件夹
+## 源代码存放于`/src`
 
 `spike_encoder.py`实现脉冲编码器功能，编译调试环境为python。
 
